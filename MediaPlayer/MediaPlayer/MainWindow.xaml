@@ -1,0 +1,32 @@
+﻿<Window x:Class="MediaPlayer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MediaPlayer"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="463.5" Width="634.5" ResizeMode="NoResize">
+    <Grid Margin="0,62,-8,0" >
+        <Grid.ColumnDefinitions>
+
+        </Grid.ColumnDefinitions>
+        <Image Source="/Eszközök/background.jpg" Margin="-55,-62,-36,0"/>
+        <MediaElement x:Name="mediaElement1" Height="223" Margin="0,10,12,0" VerticalAlignment="Top" LoadedBehavior="Manual" HorizontalAlignment="Center" Width="606"/>
+        <Slider x:Name="slider1" HorizontalAlignment="Left" Margin="10,240,0,0" VerticalAlignment="Top" Width="614" Height="18" ValueChanged="slider1_ValueChanged"/>
+        <Slider HorizontalAlignment="Left" Margin="534,275,0,0" VerticalAlignment="Top" Width="73" Value="1" Maximum="1" Height="18" ValueChanged="Slider_ValueChanged"/>
+        <Button  HorizontalAlignment="Left" Margin="287,277,0,0" VerticalAlignment="Top" Width="51" Height="51" Click="Button_Click" RenderTransformOrigin="0.475,0.513">
+            <Image Source="/Eszközök/play.png" RenderTransformOrigin="1,0.486"/>
+        </Button>
+        <Button HorizontalAlignment="Left" Margin="232,291,0,0" VerticalAlignment="Top" Width="41" Click="Button_Click_1" Height="37">
+            <Image Source="/Eszközök/stop.png" Height="35" Width="36"/>
+        </Button>
+        <Button HorizontalAlignment="Left" Margin="350,291,0,0" VerticalAlignment="Top" Width="36" Click="Button_Click_2" Height="37">
+            <Image Source="/Eszközök/pause.png" Height="35" Width="36"/>
+        </Button>
+        <Button HorizontalAlignment="Left" Margin="10,-53,0,0" VerticalAlignment="Top" Width="37" Height="38" Click="Button_Click_3">
+            <Image x:Name="open" Source="/Eszközök/open.png" Height="35" Width="36"/>
+        </Button>
+        <Label x:Name="timer" HorizontalAlignment="Left" Margin="534,238,0,0" VerticalAlignment="Top" Width="73" Height="20"/>
+        <Label Content="Hangerő" HorizontalAlignment="Left" Margin="460,273,0,0" VerticalAlignment="Top" Width="69" RenderTransformOrigin="0.058,0.154" Background="White"/>
+    </Grid>
+</Window>

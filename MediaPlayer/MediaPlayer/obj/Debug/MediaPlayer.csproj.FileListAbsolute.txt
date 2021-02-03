@@ -1,0 +1,15 @@
+C:\Users\Daniel S Johnson\Desktop\ESULI\PRog\MediaPlayer\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.exe.config
+C:\Users\Daniel S Johnson\Desktop\ESULI\PRog\MediaPlayer\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.exe
+C:\Users\Daniel S Johnson\Desktop\ESULI\PRog\MediaPlayer\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.pdb
+C:\Users\Daniel S Johnson\Desktop\ESULI\PRog\MediaPlayer\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.csprojAssemblyReference.cache
+C:\Users\Daniel S Johnson\Desktop\ESULI\PRog\MediaPlayer\MediaPlayer\MediaPlayer\obj\Debug\MainWindow.g.cs
+C:\Users\Daniel S Johnson\Desktop\ESULI\PRog\MediaPlayer\MediaPlayer\MediaPlayer\obj\Debug\App.g.cs
+C:\Users\Daniel S Johnson\Desktop\ESULI\PRog\MediaPlayer\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer_MarkupCompile.cache
+C:\Users\Daniel S Johnson\Desktop\ESULI\PRog\MediaPlayer\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer_MarkupCompile.lref
+C:\Users\Daniel S Johnson\Desktop\ESULI\PRog\MediaPlayer\MediaPlayer\MediaPlayer\obj\Debug\MainWindow.baml
+C:\Users\Daniel S Johnson\Desktop\ESULI\PRog\MediaPlayer\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.g.resources
+C:\Users\Daniel S Johnson\Desktop\ESULI\PRog\MediaPlayer\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.Properties.Resources.resources
+C:\Users\Daniel S Johnson\Desktop\ESULI\PRog\MediaPlayer\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.csproj.GenerateResource.cache
+C:\Users\Daniel S Johnson\Desktop\ESULI\PRog\MediaPlayer\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.csproj.CoreCompileInputs.cache
+C:\Users\Daniel S Johnson\Desktop\ESULI\PRog\MediaPlayer\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.exe
+C:\Users\Daniel S Johnson\Desktop\ESULI\PRog\MediaPlayer\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.pdb
